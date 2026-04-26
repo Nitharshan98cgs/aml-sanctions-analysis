@@ -19,7 +19,6 @@ globally for transaction screening and sanctions compliance.
 - `ofac_analyser.py` — Python script analysing the full SDN dataset
 - `entity_types.png` — Entity type breakdown chart
 - `sanctions_programs.png` — Top sanctions programs chart
-- `OFAC_Dashboard_Nitharshan.pdf` — Power BI dashboard export
 - `OFAC_Dashboard.pbix` — Interactive Power BI dashboard file
 
 ## Tools Used
