@@ -1,4 +1,4 @@
-"I built an OFAC Sanctions Enforcement Dashboard in Power BI using live US Treasury data.
+I built an OFAC Sanctions Enforcement Dashboard in Power BI using live US Treasury data.
 Key findings from 18,864 sanctioned entries:
 🔹 Russia EO14024 is now the largest sanctions program — bigger than Iran, North Korea, and Global Terrorism combined
 🔹 50.96% of entries are aliases — this is exactly why name-matching generates false positives in daily screening
